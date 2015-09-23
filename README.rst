@@ -12,4 +12,4 @@ License
 MIT
 
 
-.. DesignSafe_: http://www.designsafe-ci.org/
+.. _DesignSafe: http://www.designsafe-ci.org/
