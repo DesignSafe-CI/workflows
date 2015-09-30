@@ -7,7 +7,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGraffle6</string>
-		<string>163.3.0.241833</string>
+		<string>163.7.0.243167</string>
 	</array>
 	<key>AutoAdjust</key>
 	<false/>
@@ -1399,7 +1399,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{133.29170195261679, 47.548166736958024}, {38, 14}}</string>
+					<string>{{128.79170195261679, 47.548166736958024}, {47, 14}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -1436,7 +1436,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs24 \cf0 Design}</string>
+\f0\fs24 \cf0 Planning}</string>
 						<key>VerticalPad</key>
 						<real>0.0</real>
 					</dict>
@@ -1835,7 +1835,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{129.45830027262372, 613.16668574015023}, {273, 12}}</string>
+			<string>{{129.45830027262372, 613.16668574015023}, {282, 12}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -1874,7 +1874,7 @@
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs20 \cf0 Document goes from design directly to archival or publication.}</string>
+\f0\fs20 \cf0 Document goes from planning directly to archival or publication.}</string>
 				<key>VerticalPad</key>
 				<real>0.0</real>
 			</dict>
@@ -1980,7 +1980,7 @@ Tool may be available to run, or it may be just metadata.}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{128.62492370605466, 537.66663742065396}, {277, 12}}</string>
+			<string>{{128.62492370605466, 537.66663742065396}, {292, 12}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2019,7 +2019,7 @@ Tool may be available to run, or it may be just metadata.}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs20 \cf0 Experiment creates files. A subset of those are sent to staging.}</string>
+\f0\fs20 \cf0 Experiment creates files. A subset of those are sent to workspace.}</string>
 				<key>VerticalPad</key>
 				<real>0.0</real>
 			</dict>
@@ -2028,7 +2028,7 @@ Tool may be available to run, or it may be just metadata.}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{128.62492116292316, 506.66666158040323}, {206, 24}}</string>
+			<string>{{128.62492116292316, 506.66666158040323}, {230, 24}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2067,7 +2067,7 @@ Tool may be available to run, or it may be just metadata.}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs20 \cf0 Design document goes directly to staging area\
+\f0\fs20 \cf0 Planning document goes directly to workspace area\
 (not used in conducting the experiment)}</string>
 				<key>VerticalPad</key>
 				<real>0.0</real>
@@ -2077,7 +2077,7 @@ Tool may be available to run, or it may be just metadata.}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{128.62494405110675, 487.66668574015273}, {196, 12}}</string>
+			<string>{{128.62494405110675, 487.66668574015273}, {204, 12}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2116,7 +2116,7 @@ Tool may be available to run, or it may be just metadata.}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs20 \cf0 Design document goes to EF for experiment}</string>
+\f0\fs20 \cf0 Planning document goes to EF for experiment}</string>
 				<key>VerticalPad</key>
 				<real>0.0</real>
 			</dict>
@@ -3678,7 +3678,7 @@ tool}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{339.79166666666663, 46.000015258789006}, {41, 14}}</string>
+			<string>{{330.29166666666663, 46.000015258789006}, {60, 14}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -3715,7 +3715,7 @@ tool}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs24 \cf0 Staging}</string>
+\f0\fs24 \cf0 Workspace}</string>
 				<key>VerticalPad</key>
 				<real>0.0</real>
 			</dict>
@@ -3770,7 +3770,7 @@ tool}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{539.62495930989553, 46.000015258789034}, {41, 14}}</string>
+			<string>{{529.62495930989553, 46.000015258789034}, {61, 14}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -3807,7 +3807,7 @@ tool}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\fs24 \cf0 Archive}</string>
+\f0\fs24 \cf0 Data Depot}</string>
 				<key>VerticalPad</key>
 				<real>0.0</real>
 			</dict>
@@ -4262,7 +4262,7 @@ tool}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-09-14 18:08:19 +0000</string>
+	<string>2015-09-30 16:43:48 +0000</string>
 	<key>Modifier</key>
 	<string>Walter Moreira</string>
 	<key>NotesVisible</key>
@@ -4338,7 +4338,6 @@ tool}</string>
 		<key>Expanded_Canvases</key>
 		<array>
 			<string>Canvas 1</string>
-			<string>Canvas 2</string>
 		</array>
 		<key>FitInWindow</key>
 		<true/>
